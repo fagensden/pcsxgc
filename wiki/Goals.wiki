@@ -1,0 +1,15 @@
+#summary Project Goals
+#labels Featured,Phase-Requirements
+
+Listed in order of importance:
+  * *Get it to compile for Cube/Wii*
+  * *Dynamic Recompilation*
+  * *Hardware Accelerated Graphics*
+  * *Sound*
+  * *Input (Gamecube & Classic Controller)*
+  * *DVD/SD/Front-SD/USB Mass Storage Loading*
+  * *Native Saves (to SD or MC)*
+  * *Save States (to SD)*
+  * *Rumble Support*
+  * *Progressive/Widescreen Resolution*
+  * *Light gun support(possible?)*
