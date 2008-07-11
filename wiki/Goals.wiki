@@ -2,13 +2,13 @@
 #labels Featured,Phase-Requirements
 
 Listed in order of importance:
-  * *Get it to compile for Cube/Wii*
+  * *Get it to compile for Cube/Wii* (done, still some issues)
   * *Dynamic Recompilation*
-  * *Hardware Accelerated Graphics*
-  * *Sound*
-  * *Input (Gamecube & Classic Controller)*
-  * *DVD/SD/Front-SD/USB Mass Storage Loading*
-  * *Native Saves (to SD or MC)*
+  * *Hardware Accelerated Graphics* (WIP)
+  * *Sound* (WIP)
+  * *Input (Gamecube & Classic Controller)* (GC for now)
+  * *DVD/SD/Front-SD/USB Mass Storage Loading* (hardcoded sd for now)
+  * *Native Saves (to SD or MC)* (hardcoded for now)
   * *Save States (to SD)*
   * *Rumble Support*
   * *Progressive/Widescreen Resolution*
