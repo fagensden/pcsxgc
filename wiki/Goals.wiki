@@ -2,14 +2,16 @@
 #labels Featured,Phase-Requirements
 
 Listed in order of importance:
-  * *Get it to compile for Cube/Wii* (done, still some issues)
-  * *Dynamic Recompilation*
-  * *Hardware Accelerated Graphics* (WIP)
-  * *Sound* (WIP)
-  * *Input (Gamecube & Classic Controller)* (GC for now)
-  * *DVD/SD/Front-SD/USB Mass Storage Loading* (hardcoded sd for now)
-  * *Native Saves (to SD or MC)* (hardcoded for now)
-  * *Save States (to SD)*
+  * *Fix ALL Missing Graphics (Endian?) Issues* (WIP)
+  * *Software Rendered Graphics* (WIP)
+  * *Dynamic Recompilation* (Pure Interpreter is fine for now)
+  * *Hardware Accelerated Graphics*
+  * *Input (Gamecube & Classic Controller)* (GC PAD so far)
+  * *Native Saves (to SD/USB/MC)* (SD only so far)
+  * *Sound*
   * *Rumble Support*
+  * *Graphical User Interface*
+  * *DVD/SD/Front-SD/USB Mass Storage Loading*
+  * *Save States (to SD)*
   * *Progressive/Widescreen Resolution*
-  * *Light gun support(possible?)*
+  * *Light gun support*
