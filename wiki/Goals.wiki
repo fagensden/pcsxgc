@@ -2,7 +2,7 @@
 #labels Featured,Phase-Requirements
 
 Listed in order of importance:
-  * *Track down nasty Interpreter bug (always WIP)
+  * *Track down nasty Interpreter bug* (always WIP)
   * *Fix ALL Missing Graphics (Endian?) Issues* (Done?)
   * *Software Rendered Graphics* (WIP)
   * *Graphical User Interface*
