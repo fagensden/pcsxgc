@@ -2,16 +2,17 @@
 #labels Featured,Phase-Requirements
 
 Listed in order of importance:
-  * *Fix ALL Missing Graphics (Endian?) Issues* (WIP)
+  * *Track down nasty Interpreter bug (always WIP)
+  * *Fix ALL Missing Graphics (Endian?) Issues* (Done?)
   * *Software Rendered Graphics* (WIP)
-  * *Dynamic Recompilation* (Pure Interpreter is fine for now)
-  * *Hardware Accelerated Graphics*
-  * *Input (Gamecube & Classic Controller)* (GC PAD so far)
-  * *Native Saves (to SD/USB/MC)* (SD only so far)
-  * *Sound*
-  * *Rumble Support*
   * *Graphical User Interface*
-  * *DVD/SD/Front-SD/USB Mass Storage Loading*
+  * *Dynamic Recompilation* (After the above is completed)
+  * *Hardware Accelerated Graphics*
+  * *Sound* (WIP, XA not working all the time?)
+  * *Input* (Gamecube Controller supported for now)
+  * *Native Saves (to FAT/MC)* (SD only so far)
+  * *DVD & FAT Storage Loading* (FAT for now)
+  * *Rumble Support*
   * *Save States (to SD)*
   * *Progressive/Widescreen Resolution*
   * *Light gun support*
