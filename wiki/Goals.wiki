@@ -1,18 +1,25 @@
 #summary Project Goals
 #labels Featured,Phase-Requirements
 
-Listed in order of importance:
-  * *Track down nasty Interpreter bug* (always WIP)
-  * *Fix ALL Missing Graphics (Endian?) Issues* (Done?)
-  * *Software Rendered Graphics* (WIP)
-  * *Graphical User Interface*
-  * *Dynamic Recompilation* (After the above is completed)
-  * *Hardware Accelerated Graphics*
-  * *Sound* (WIP, XA not working all the time?)
-  * *Input* (Gamecube Controller supported for now)
-  * *Native Saves (to FAT/MC)* (SD only so far)
-  * *DVD & FAT Storage Loading* (FAT for now)
-  * *Rumble Support*
-  * *Save States (to SD)*
+Completed:
+  * *Track down nasty Interpreter bug*
+  * *Fix Endian Graphics Issues*
+  * *Software Rendered Graphics*
+  * *Dynamic Recompilation*
+  * *Sound*
+  * *Input*
+  * *Memory Cards*
+  * *SD Storage Loading*
   * *Progressive/Widescreen Resolution*
+
+
+To-Do:
+  * *Graphical User Interface*
+  * *Configurable input*
+  * *Save States*
+  * *Hardware Accelerated Graphics*
+  * *CDDA Streaming*
+  * *.ISO format support*
+  * *Fix missing XA sound*
+  * *Rumble Support*
   * *Light gun support*
