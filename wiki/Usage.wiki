@@ -23,3 +23,19 @@
   * Place all your .bin/.cue & SCPH1001.BIN (the BIOS) in sd:/PSXISOS/
 
   * To exit to the HBC or SDLoad, press Reset on your console
+
+= Controller Mappings =
+|| *PSX* || *Gamecube* ||
+|| Cross || A ||
+|| Square|| B ||
+|| Triangle|| Y||
+|| Circle||X||
+||Right Analog Stick||  C-Stick||
+|| Left Analog Stick||  Left Analog Stick||
+||  Digital Pad||  Digital Pad||
+|| Start||  Start||
+|| Select|| Start + Z||
+|| R1|| Right Trigger||
+||  R2||  Right Trigger + Z||
+|| L1||  Left Trigger||
+||  L2||  Left Trigger + Z||
