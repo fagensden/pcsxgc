@@ -1,5 +1,8 @@
-#summary How to use WiiSX/CubeSX
 #labels Featured
+Note: The information on this page pertains to Beta 1. We will update it for Beta 2 in the near future.
+
+
+#summary How to use WiiSX/CubeSX
 
 = Requirements =
 
