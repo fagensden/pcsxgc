@@ -2,24 +2,24 @@
 #labels Featured,Phase-Requirements
 
 Completed:
-  * *Track down nasty Interpreter bug*
-  * *Fix Endian Graphics Issues*
-  * *Software Rendered Graphics*
+  * *Graphical User Interface*
   * *Dynamic Recompilation*
-  * *Sound*
-  * *Input*
+  * *Software Rendered Graphics*
+  * *Stereo Sound (XA)*
+  * *Configurable input*
+  * *Save States*
   * *Memory Cards*
-  * *SD Storage Loading*
+  * *SD/DVD/USB Storage Loading*
+  * *Samba Loading*
   * *Progressive/Widescreen Resolution*
+  * *Dual Shock Vibration*
+  * *Sub-channel CD data (.sub)*
 
 
 To-Do:
-  * *Graphical User Interface*
-  * *Configurable input*
-  * *Save States*
   * *Hardware Accelerated Graphics*
   * *CDDA Streaming*
-  * *.ISO format support*
-  * *Fix missing XA sound*
-  * *Rumble Support*
+  * *Fix Dynarec and FFVII*
+  * *Recompile GTE instruction set*
   * *Light gun support*
+  * *PSX Mouse support*
